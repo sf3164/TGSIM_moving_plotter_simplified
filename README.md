@@ -27,7 +27,7 @@ The tool produces an HTML file (`Moving_Simplified_Plot.html`) displaying the in
 ```bash
 .
 ├── TGSIM_Moving.csv            # Main trajectory dataset
-├── centerline/
+├── Centerline/
 │   ├── I-90-moving-Run_1-geometry-with-ramps.csv
 │   ├── I-90-moving-Run_2-geometry-with-ramps.csv
 │   └── ...                            # One file per run index
